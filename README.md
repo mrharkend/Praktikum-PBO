@@ -1,2 +1,0 @@
-# Praktikum-PBO
-File praktikum
